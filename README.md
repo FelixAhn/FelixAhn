@@ -1,7 +1,6 @@
-<div align=center> 
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=000&height=400&text=Welcome&animation=fadeIn&fontSize=60&fontAlignY=38&fontColor=FFF&desc=I'm%20FelixAhn)
-</div>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/FelixAhn"/>
+</a>
 
 ## Self-Introduction 👋 
 
